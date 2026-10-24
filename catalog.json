@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-24T00:00:00Z",
+  "categories": [
+    { "id": "family", "title": "Family & board games" },
+    { "id": "action", "title": "Action & racing" },
+    { "id": "puzzle", "title": "Puzzles" },
+    { "id": "cards", "title": "Cards" }
+  ],
+  "featured": [],
+  "games": []
+}
